@@ -1,0 +1,66 @@
+q,
+blockquote {
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    quotes: none;
+
+    &:before,
+    &:after {
+        content: "";
+    }
+}
+
+blockquote {
+    font-style: italic;
+    line-height: 1.6667;
+    margin-top: 1.6667em;
+    margin-bottom: 1.6667em;
+    padding-top: 15px;
+    padding-bottom: 3px;
+    padding-left: 92px;
+    padding-right: 80px;
+    position: relative;
+    background-color: transparent;
+    &:before {
+        content: "\c140";
+        font-family: cleversoft;
+        font-style: normal;
+        position: absolute;
+        left: 45px;
+        top: -4px;
+    }
+    > p {
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    p {
+        margin-bottom: 1.6667em;
+    }
+
+    strong,
+    b {
+        font-weight: 400;
+    }
+
+    em,
+    i,
+    cite {
+        font-style: normal;
+    }
+
+    cite,
+    small {
+        color: #333;
+        font-size: 15px;
+        font-size: 1.5rem;
+        line-height: 1.6;
+    }
+
+    cite {
+        display: block;
+        margin-top: 5px;
+    }
+}

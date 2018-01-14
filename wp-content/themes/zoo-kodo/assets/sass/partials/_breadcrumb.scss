@@ -1,0 +1,28 @@
+/*--------------------------------------------------------------
+Breadcrumb
+--------------------------------------------------------------*/
+.wrap-breadcrumb {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 20px 0;
+}
+
+.breadcrumbs {
+    margin: 0;
+    padding: 0;
+    li {
+        list-style: none;
+    }
+}
+
+.zoo-breadcrumb-container {
+    font-size: inherit;
+    line-height: 30px;
+    height: 30px;
+}
+.zoo-breadcrumb-separator {
+    padding: 0 15px;
+    i {
+        font-size: 9px;
+    }
+}

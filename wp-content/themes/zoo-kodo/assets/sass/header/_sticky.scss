@@ -1,0 +1,68 @@
+/*--------------------------------------------------------------
+Sticky
+--------------------------------------------------------------*/
+.is-sticky {
+    .primary-nav {
+        ul.menu,
+        .menu > ul {
+            > li {
+                > a {
+                    padding: 24px 22px;
+                }
+            }
+        }
+    }
+    #main-navigation .cmm-container .cmm > li > a,
+    #main-navigation .cmm-container .cmm > li > .cmm-nav-link {
+        height: 72px;
+        line-height: 72px;
+    }
+}
+
+.header-transparent {
+    .is-sticky {
+        &.wrap-header,
+        #top-header,
+        .wrap-header-block {
+            background: #fff !important;
+        }
+
+        .cmm-container {
+            .cmm {
+                > li {
+                    > a,
+                    .cmm-nav-link {
+                        color: #222;
+                    }
+                }
+            }
+        }
+
+        .wrap-icon-cart i,
+        .wrap-icon-cart a,
+        #icon-header .header-link > a,
+        #icon-header .search a,
+        #menu-mobile-trigger,
+        #icon-header .search a {
+            color: #222;
+        }
+    }
+
+    &.wrap-header {
+        .is-sticky {
+            .top-cart-icon,
+            a.search-trigger,
+            .widget ul li a {
+                color: #222;
+            }
+        }
+    }
+}
+
+.sticky-wrapper {
+    height: auto !important;
+}
+
+.sticker {
+    bottom: auto !important;
+}

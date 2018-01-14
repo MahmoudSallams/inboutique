@@ -1,0 +1,106 @@
+.woocommerce a.added_to_cart,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce a.btn-register,
+.woocommerce-cart .woocommerce .cart-collaterals .wc-proceed-to-checkout a.button,
+.woocommerce input.button-login,
+.woocommerce button.button.alt.single_add_to_cart_button,
+.woocommerce div.product div.woocommerce-tabs #respond input#submit.submit,
+.woocommerce a.btn-register,
+.sidebar .woocommerce.widget_price_filter .price_slider_amount .button,
+.zoo-mini-cart-contents p.buttons a.button:not(.checkout),
+.zoo-mini-cart-contents p.buttons a.button.checkout:not(.checkout),
+.zoo-mini-cart-contents p.buttons a.button.checkout,
+.posts-navigation .nav-links a,
+.site-footer .top-footer .top-footer-toggle,
+.zoo-button,
+.zoo-ajax-load-more .ajax-func,
+.zoo-banner-image.help-info .banner-readmore a,
+.comment-form .form-submit input,
+.form-submit input,
+input.submit,
+input[type="submit"],
+button,
+.btn {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 16px 35px 15px;
+    border-width: 0;
+    border-style: solid;
+    border-radius: 0;
+    @include transition-all(0.4s);
+}
+
+/* VC Button */
+.wpb-js-composer {
+    .vc_btn3-container {
+        .vc_general {
+            &.vc_btn3 {
+                font-size: 14px;
+                font-weight: bold;
+                text-transform: uppercase;
+                margin-top: 20px;
+                padding: 0 42px;
+                -webkit-transition: all 0.25s;
+                -moz-transition: all 0.25s;
+                -o-transition: all 0.25s;
+                transition: all 0.25s;
+                &.vc_btn3-size-md {
+                    height: 50px;
+                    line-height: 50px;
+                }
+
+                &.vc_btn3-style-modern {
+                    border: 0;
+                    background: #252525;
+                    color: #ffffff;
+                    &:hover {
+                        background-color: #000000;
+                        color: #ffffff;
+                        border-color: #000000;
+                    }
+                }
+
+                &.vc_btn3-style-outline,
+                &.vc_btn3-style-outline-custom,
+                &.vc_btn3-style-outline-custom:focus,
+                &.vc_btn3-style-outline-custom:hover,
+                &.vc_btn3-style-outline:focus,
+                &.vc_btn3-style-outline:hover {
+                    border-width: 2px;
+                    line-height: 44px;
+                }
+
+                &.vc_btn3-style-outline {
+                    color: #222;
+                    border-color: #222;
+                    &.active,
+                    &:active,
+                    &:focus,
+                    &:hover {
+                        color: #fff;
+                        border-color: #222;
+                        background-color: #222;
+                    }
+                }
+
+                &:active,
+                &.active,
+                &:hover {
+                    outline: 0;
+                    -webkit-box-shadow: none;
+                    box-shadow: none;
+                }
+            }
+        }
+    }
+}

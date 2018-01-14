@@ -1,0 +1,3633 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-30 09:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:29
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Your name*"
+msgstr ""
+
+#: comments.php:54
+msgid "Email*"
+msgstr ""
+
+#: comments.php:55 author.php:34
+msgid "Website"
+msgstr ""
+
+#: comments.php:57
+msgid "Your comment*"
+msgstr ""
+
+#: comments.php:59
+msgid "Post Comment"
+msgstr ""
+
+#: image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:24
+msgid "Next Image"
+msgstr ""
+
+#: image.php:51
+msgid "Pages:"
+msgstr ""
+
+#: image.php:55
+msgid "Page"
+msgstr ""
+
+#: image.php:63 content-page.php:21 inc/theme-functions/theme-functions.php:623
+#: inc/theme-functions/theme-functions.php:641
+msgid "Edit"
+msgstr ""
+
+#: image.php:71
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: search.php:44
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: footer.php:22
+msgid "Show Less"
+msgstr ""
+
+#: footer.php:22
+msgid "Show More"
+msgstr ""
+
+#: content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:25
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:25
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: author-bio.php:15
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: author.php:30
+msgid "About"
+msgstr ""
+
+#: author.php:36
+msgid "Profile"
+msgstr ""
+
+#: author.php:41
+msgid "Posts by"
+msgstr ""
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: header.php:47 inc/templates/search-form.php:19
+msgid "Type & hit enter..."
+msgstr ""
+
+#: woocommerce/woo-sidebar-right.php:15 woocommerce/woo-sidebar-left.php:15
+#: woocommerce/theme-custom/quick-view.php:12 woocommerce/cart/mini-cart.php:30
+msgid "Close"
+msgstr ""
+
+#: woocommerce/archive-product.php:43
+#: woocommerce/theme-custom/top-left-product-page.php:9
+msgid "Show/Hide Sidebar"
+msgstr ""
+
+#: woocommerce/archive-product.php:44 clever-vc-addon/shortcodes/product.php:67
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/archive-product.php:48
+#: woocommerce/theme-custom/top-left-product-page.php:15
+msgid "Switch to Grid Layout"
+msgstr ""
+
+#: woocommerce/archive-product.php:54
+#: woocommerce/theme-custom/top-left-product-page.php:20
+msgid "Switch to List Layout"
+msgstr ""
+
+#: woocommerce/content-product.php:76
+#: woocommerce/content-product-related.php:96
+#: clever-vc-addon/shortcodes/woocommerce/content-product.php:77
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/content-product.php:81
+#: woocommerce/content-product-related.php:101
+#: clever-vc-addon/shortcodes/woocommerce/content-product.php:82
+msgid "Low Stock"
+msgstr ""
+
+#: woocommerce/content-product.php:88
+#: woocommerce/content-product-related.php:108
+#: clever-vc-addon/shortcodes/woocommerce/content-product.php:90
+msgid "Add to Compare"
+msgstr ""
+
+#: woocommerce/content-product.php:103
+#: woocommerce/theme-custom/quick-view.php:44
+msgid "Compare"
+msgstr ""
+
+#: woocommerce/content-product.php:119
+#: woocommerce/content-product-related.php:120
+#: clever-vc-addon/shortcodes/woocommerce/content-product.php:102
+msgid "Quick View"
+msgstr ""
+
+#: lib/core.php:83
+msgid ""
+"Attention! This will reset all customizations ever made via customizer to "
+"this theme!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+
+#: lib/core.php:84
+msgid ""
+"Attention! This will override all customizations ever made via customizer to "
+"this theme!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:67
+#: woocommerce/myaccount/form-login.php:123
+msgid "or"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:28
+#: woocommerce/loop/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/order/order-details-customer.php:68
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/price.php:30
+msgid "Availability"
+msgstr ""
+
+#: woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/share.php:20
+#: inc/templates/posts/single/sharing.php:2
+msgid "Share"
+msgstr ""
+
+#: woocommerce/single-product/share.php:26
+msgid "Share to facebook"
+msgstr ""
+
+#: woocommerce/single-product/share.php:28
+msgid "Share to twitter"
+msgstr ""
+
+#: woocommerce/single-product/share.php:30
+msgid "Share to google plus"
+msgstr ""
+
+#: woocommerce/single-product/share.php:31
+msgid "Share to pinterest"
+msgstr ""
+
+#: woocommerce/single-product/share.php:32
+msgid "Sent to mail"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "Rated"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+msgid "out of"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:43
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:45
+msgid "Add your review"
+msgstr ""
+
+#: woocommerce/theme-custom/woo-pagination.php:12
+msgid "Prev Products"
+msgstr ""
+
+#: woocommerce/theme-custom/woo-pagination.php:13
+msgid "Next Products"
+msgstr ""
+
+#: woocommerce/theme-custom/woo-pagination.php:14
+msgid "No More Products"
+msgstr ""
+
+#: woocommerce/theme-custom/woo-pagination.php:23
+#: inc/templates/posts/post-pagination.php:31
+msgid "Previous page"
+msgstr ""
+
+#: woocommerce/theme-custom/woo-pagination.php:28
+#: inc/templates/posts/post-pagination.php:36
+msgid "Next page"
+msgstr ""
+
+#: woocommerce/theme-custom/topheadcart.php:11
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/theme-custom/topheadcart.php:13
+#, php-format
+msgid "<span>%d</span> <label>item</label>"
+msgid_plural "<span>%d</span> <label>items</label>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/theme-custom/order-step.php:9
+msgid "Shopping Cart"
+msgstr ""
+
+#: woocommerce/theme-custom/order-step.php:11
+msgid "Check Out Detail"
+msgstr ""
+
+#: woocommerce/theme-custom/order-step.php:13
+msgid "Order Complete"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:25
+msgid "Shipping details"
+msgstr ""
+
+#: woocommerce/cart/cart.php:132 woocommerce/cart/cart.php:134
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:31
+msgid "Enter Coupon"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:29
+msgid "Shopping bag"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "Qty: "
+msgstr ""
+
+#: woocommerce/order/order-details.php:29
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:33
+msgid "Product"
+msgstr ""
+
+#: woocommerce/order/order-details.php:34
+msgid "Total"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:58
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:66
+msgid "Shipping Address"
+msgstr ""
+
+#: lib/options/custom-js.php:15
+msgid "Additional JS"
+msgstr ""
+
+#: lib/options/custom-js.php:21
+msgid "Custom Js"
+msgstr ""
+
+#: lib/options/social.php:15
+msgid "Social"
+msgstr ""
+
+#: lib/options/social.php:22
+msgid "Facebook"
+msgstr ""
+
+#: lib/options/social.php:23
+msgid "Your facebook page/profile url"
+msgstr ""
+
+#: lib/options/social.php:31
+msgid "Twitter"
+msgstr ""
+
+#: lib/options/social.php:32
+msgid "Your Twitter username (no @)."
+msgstr ""
+
+#: lib/options/social.php:40
+msgid "Instagram"
+msgstr ""
+
+#: lib/options/social.php:41
+msgid "Your Instagram username"
+msgstr ""
+
+#: lib/options/social.php:49
+msgid "Dribbble"
+msgstr ""
+
+#: lib/options/social.php:50
+msgid "Your Dribbble username"
+msgstr ""
+
+#: lib/options/social.php:58
+msgid "Vimeo"
+msgstr ""
+
+#: lib/options/social.php:59
+msgid "Your Vimeo username"
+msgstr ""
+
+#: lib/options/social.php:67
+msgid "Tumblr"
+msgstr ""
+
+#: lib/options/social.php:68
+msgid "Your Tumblr username"
+msgstr ""
+
+#: lib/options/social.php:76
+msgid "Skype"
+msgstr ""
+
+#: lib/options/social.php:77
+msgid "Your Skype username"
+msgstr ""
+
+#: lib/options/social.php:85
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/options/social.php:86
+msgid "Your LinkedIn page/profile url"
+msgstr ""
+
+#: lib/options/social.php:94
+msgid "Google+"
+msgstr ""
+
+#: lib/options/social.php:95
+msgid "Your Google+ page/profile URL"
+msgstr ""
+
+#: lib/options/social.php:103
+msgid "Flickr"
+msgstr ""
+
+#: lib/options/social.php:104
+msgid "Your Flickr page url"
+msgstr ""
+
+#: lib/options/social.php:112
+msgid "YouTube"
+msgstr ""
+
+#: lib/options/social.php:113
+msgid "Your YouTube URL"
+msgstr ""
+
+#: lib/options/social.php:121
+msgid "Pinterest"
+msgstr ""
+
+#: lib/options/social.php:122
+msgid "Your Pinterest username"
+msgstr ""
+
+#: lib/options/social.php:130
+msgid "Foursquare"
+msgstr ""
+
+#: lib/options/social.php:131
+msgid "Your Foursqaure URL"
+msgstr ""
+
+#: lib/options/social.php:139
+msgid "GitHub"
+msgstr ""
+
+#: lib/options/social.php:140
+msgid "Your GitHub URL"
+msgstr ""
+
+#: lib/options/social.php:148
+msgid "Xing"
+msgstr ""
+
+#: lib/options/social.php:149
+msgid "Your Xing URL"
+msgstr ""
+
+#: lib/options/reset.php:15
+msgid "Reset"
+msgstr ""
+
+#: lib/options/reset.php:24
+msgid "Click the reset button to reset all options to default values."
+msgstr ""
+
+#: lib/options/reset.php:32
+msgid "Reset cusomtize options"
+msgstr ""
+
+#: lib/options/footer.php:11
+msgid "Footer"
+msgstr ""
+
+#: lib/options/footer.php:16 lib/options/footer.php:28
+#: inc/metaboxes/meta-boxes.php:436
+msgid "Footer Layout"
+msgstr ""
+
+#: lib/options/footer.php:21
+msgid "Footer Presets"
+msgstr ""
+
+#: lib/options/footer.php:43
+msgid "Enable Top Footer"
+msgstr ""
+
+#: lib/options/footer.php:51
+msgid "Enable Main Footer"
+msgstr ""
+
+#: lib/options/footer.php:59 inc/metaboxes/meta-boxes.php:330
+msgid "Enable Footer Social"
+msgstr ""
+
+#: lib/options/footer.php:67 inc/metaboxes/meta-boxes.php:351
+msgid "Hide Border Bottom of Footer Top."
+msgstr ""
+
+#: lib/options/footer.php:75 inc/metaboxes/meta-boxes.php:358
+msgid "Hide Border Bottom of Footer Main."
+msgstr ""
+
+#: lib/options/footer.php:83 inc/metaboxes/meta-boxes.php:365
+msgid "Hide Border Bottom of Footer Copyright."
+msgstr ""
+
+#: lib/options/footer.php:91
+msgid "Copyright text"
+msgstr ""
+
+#: lib/options/footer.php:100 lib/options/footer.php:224
+#: lib/options/footer.php:281 lib/options/footer.php:330
+#: lib/options/shop.php:52 inc/metaboxes/meta-boxes.php:372
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr ""
+
+#: lib/options/footer.php:108 inc/metaboxes/meta-boxes.php:378
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr ""
+
+#: lib/options/footer.php:116 lib/options/general.php:114
+#: inc/metaboxes/meta-boxes.php:78 inc/metaboxes/meta-boxes.php:385
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr ""
+
+#: lib/options/footer.php:120 lib/options/general.php:118
+#: inc/metaboxes/meta-boxes.php:83 inc/metaboxes/meta-boxes.php:390
+msgid "Auto"
+msgstr ""
+
+#: lib/options/footer.php:121 lib/options/general.php:119
+#: inc/metaboxes/meta-boxes.php:84 inc/metaboxes/meta-boxes.php:391
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr ""
+
+#: lib/options/footer.php:122 lib/options/general.php:120
+#: inc/metaboxes/meta-boxes.php:85 inc/metaboxes/meta-boxes.php:392
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr ""
+
+#: lib/options/footer.php:123 lib/options/general.php:121
+#: inc/metaboxes/meta-boxes.php:86 inc/metaboxes/meta-boxes.php:393
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr ""
+
+#: lib/options/footer.php:130 lib/options/general.php:128
+#: inc/metaboxes/meta-boxes.php:90 inc/metaboxes/meta-boxes.php:397
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/options/footer.php:134 lib/options/general.php:132
+#: inc/metaboxes/meta-boxes.php:95 inc/metaboxes/meta-boxes.php:402
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr ""
+
+#: lib/options/footer.php:135 lib/options/general.php:133
+#: inc/metaboxes/meta-boxes.php:96 inc/metaboxes/meta-boxes.php:403
+msgid "Repeat"
+msgstr ""
+
+#: lib/options/footer.php:136 lib/options/general.php:134
+#: inc/metaboxes/meta-boxes.php:97 inc/metaboxes/meta-boxes.php:404
+msgid "Repeat X"
+msgstr ""
+
+#: lib/options/footer.php:137 lib/options/general.php:135
+#: inc/metaboxes/meta-boxes.php:98 inc/metaboxes/meta-boxes.php:405
+msgid "Repeat Y"
+msgstr ""
+
+#: lib/options/footer.php:144 lib/options/general.php:142
+#: inc/metaboxes/meta-boxes.php:102 inc/metaboxes/meta-boxes.php:409
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr ""
+
+#: lib/options/footer.php:148 lib/options/general.php:146
+#: inc/metaboxes/meta-boxes.php:107 inc/metaboxes/meta-boxes.php:414
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr ""
+
+#: lib/options/footer.php:149 lib/options/general.php:147
+#: inc/metaboxes/meta-boxes.php:108 inc/metaboxes/meta-boxes.php:415
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr ""
+
+#: lib/options/footer.php:150 lib/options/general.php:148
+#: inc/metaboxes/meta-boxes.php:109 inc/metaboxes/meta-boxes.php:416
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr ""
+
+#: lib/options/footer.php:151 lib/options/general.php:149
+#: inc/metaboxes/meta-boxes.php:110 inc/metaboxes/meta-boxes.php:417
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr ""
+
+#: lib/options/footer.php:152 lib/options/general.php:150
+#: inc/metaboxes/meta-boxes.php:111 inc/metaboxes/meta-boxes.php:418
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr ""
+
+#: lib/options/footer.php:153 lib/options/general.php:151
+#: inc/metaboxes/meta-boxes.php:112 inc/metaboxes/meta-boxes.php:419
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr ""
+
+#: lib/options/footer.php:154 lib/options/general.php:152
+#: inc/metaboxes/meta-boxes.php:113 inc/metaboxes/meta-boxes.php:420
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr ""
+
+#: lib/options/footer.php:155 lib/options/general.php:153
+#: inc/metaboxes/meta-boxes.php:114 inc/metaboxes/meta-boxes.php:421
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr ""
+
+#: lib/options/footer.php:156 lib/options/general.php:154
+#: inc/metaboxes/meta-boxes.php:115 inc/metaboxes/meta-boxes.php:422
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr ""
+
+#: lib/options/footer.php:163 lib/options/general.php:161
+#: inc/metaboxes/meta-boxes.php:119 inc/metaboxes/meta-boxes.php:426
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/options/footer.php:167 lib/options/general.php:165
+#: inc/metaboxes/meta-boxes.php:124 inc/metaboxes/meta-boxes.php:431
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr ""
+
+#: lib/options/footer.php:168 lib/options/general.php:166
+#: inc/metaboxes/meta-boxes.php:125 inc/metaboxes/meta-boxes.php:432
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr ""
+
+#: lib/options/footer.php:178 inc/theme-functions/theme-functions.php:225
+msgid "Top Footer"
+msgstr ""
+
+#: lib/options/footer.php:184 lib/options/footer.php:241
+#: lib/options/footer.php:298 lib/options/style.php:21
+#: lib/options/header.php:160 lib/options/header.php:209
+#: lib/options/header.php:250
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:163
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-colorpicker.php:17
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-colorpicker.php:15
+msgid "Color"
+msgstr ""
+
+#: lib/options/footer.php:192 lib/options/footer.php:249
+#: lib/options/footer.php:306 lib/options/header.php:168
+#: lib/options/header.php:217 lib/options/header.php:258
+msgid "Link color"
+msgstr ""
+
+#: lib/options/footer.php:200 lib/options/footer.php:257
+#: lib/options/footer.php:314
+msgid "Link Color Hover"
+msgstr ""
+
+#: lib/options/footer.php:208 lib/options/footer.php:265
+msgid "Block title color"
+msgstr ""
+
+#: lib/options/footer.php:216 lib/options/footer.php:273
+msgid "Field Background Color"
+msgstr ""
+
+#: lib/options/footer.php:235
+msgid "Main Footer"
+msgstr ""
+
+#: lib/options/footer.php:292
+msgid "Copyright Footer"
+msgstr ""
+
+#: lib/options/footer.php:322 lib/options/style.php:47
+msgid "Border Color"
+msgstr ""
+
+#: lib/options/style.php:12
+msgid "Style"
+msgstr ""
+
+#: lib/options/style.php:13
+msgid "Control your theme primary color, typography..."
+msgstr ""
+
+#: lib/options/style.php:31
+msgid "Base Colors"
+msgstr ""
+
+#: lib/options/style.php:38
+msgid "Base Color"
+msgstr ""
+
+#: lib/options/style.php:56
+msgid "Fields Color"
+msgstr ""
+
+#: lib/options/style.php:65
+msgid "Fields background Color"
+msgstr ""
+
+#: lib/options/style.php:76
+msgid "Accent Colors"
+msgstr ""
+
+#: lib/options/style.php:83 inc/metaboxes/meta-boxes.php:162
+msgid "Primary Color"
+msgstr ""
+
+#: lib/options/style.php:94
+msgid "Links"
+msgstr ""
+
+#: lib/options/style.php:101 inc/metaboxes/meta-boxes.php:168
+msgid "Link Color"
+msgstr ""
+
+#: lib/options/style.php:110
+msgid "Link Color: Hover"
+msgstr ""
+
+#: lib/options/style.php:121
+msgid "Primary Buttons"
+msgstr ""
+
+#: lib/options/style.php:127 lib/options/style.php:182
+#: lib/options/style.php:237
+msgid "Button Color"
+msgstr ""
+
+#: lib/options/style.php:135 lib/options/style.php:190
+#: lib/options/style.php:245
+msgid "Button Border Color"
+msgstr ""
+
+#: lib/options/style.php:142 lib/options/style.php:197
+#: lib/options/style.php:252
+msgid "Button Background Color"
+msgstr ""
+
+#: lib/options/style.php:150 lib/options/style.php:205
+#: lib/options/style.php:260
+msgid "Button Color: Hover"
+msgstr ""
+
+#: lib/options/style.php:158 lib/options/style.php:213
+#: lib/options/style.php:268
+msgid "Button Border Color: Hover"
+msgstr ""
+
+#: lib/options/style.php:165 lib/options/style.php:220
+#: lib/options/style.php:275
+msgid "Button Background Color: Hover"
+msgstr ""
+
+#: lib/options/style.php:176
+msgid "Secondary Buttons"
+msgstr ""
+
+#: lib/options/style.php:231
+msgid "Tertiary Buttons"
+msgstr ""
+
+#: lib/options/style.php:286
+msgid "Helper colors"
+msgstr ""
+
+#: lib/options/style.php:293
+msgid "Error Color"
+msgstr ""
+
+#: lib/options/style.php:302
+msgid "Error Background Color"
+msgstr ""
+
+#: lib/options/style.php:311
+msgid "Success Color"
+msgstr ""
+
+#: lib/options/style.php:320
+msgid "Success Background Color"
+msgstr ""
+
+#: lib/options/style.php:331
+msgid "Shop Colors"
+msgstr ""
+
+#: lib/options/style.php:338
+msgid "Sale Bubble"
+msgstr ""
+
+#: lib/options/style.php:346
+msgid "Sale Bubble Background"
+msgstr ""
+
+#: lib/options/style.php:355
+msgid "Review Stars"
+msgstr ""
+
+#: lib/options/style.php:364
+msgid "Typography"
+msgstr ""
+
+#: lib/options/style.php:374
+msgid "Body Font"
+msgstr ""
+
+#: lib/options/style.php:384 lib/options/style.php:498
+#: lib/options/style.php:632
+msgid "Choose custom font(FuturaStd) or google font."
+msgstr ""
+
+#: lib/options/style.php:386 lib/options/style.php:500
+#: lib/options/style.php:634
+msgid "FuturaStd font"
+msgstr ""
+
+#: lib/options/style.php:387 lib/options/style.php:501
+#: lib/options/style.php:635
+msgid "Google font"
+msgstr ""
+
+#: lib/options/style.php:394 lib/options/style.php:642
+msgid "Font size"
+msgstr ""
+
+#: lib/options/style.php:410 lib/options/style.php:508
+#: lib/options/style.php:658 lib/vendor/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr ""
+
+#: lib/options/style.php:413 lib/options/style.php:511
+#: lib/options/style.php:661
+msgid "Choose Variant of font."
+msgstr ""
+
+#: lib/options/style.php:415 lib/options/style.php:513
+#: lib/options/style.php:663
+msgid "400 (Normal)"
+msgstr ""
+
+#: lib/options/style.php:416 lib/options/style.php:514
+#: lib/options/style.php:664
+msgid "500 (Medium)"
+msgstr ""
+
+#: lib/options/style.php:417 lib/options/style.php:515
+#: lib/options/style.php:665
+msgid "600 (Heavy)"
+msgstr ""
+
+#: lib/options/style.php:431 lib/options/style.php:679
+msgid "Line height"
+msgstr ""
+
+#: lib/options/style.php:447 lib/options/style.php:529
+#: lib/options/style.php:695 lib/vendor/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/options/style.php:464
+msgid "Select the main typography options for your site."
+msgstr ""
+
+#: lib/options/style.php:489
+msgid "Heading font"
+msgstr ""
+
+#: lib/options/style.php:546
+msgid ""
+"Select the main typography options for a heading tag ( h1, h2, h3, h4, h5, "
+"h6 )."
+msgstr ""
+
+#: lib/options/style.php:565
+msgid "H1"
+msgstr ""
+
+#: lib/options/style.php:566
+msgid "Select the main typography options for h1 tag."
+msgstr ""
+
+#: lib/options/style.php:574
+msgid "H2"
+msgstr ""
+
+#: lib/options/style.php:575
+msgid "Select the main typography options for h2 tag."
+msgstr ""
+
+#: lib/options/style.php:583
+msgid "H3"
+msgstr ""
+
+#: lib/options/style.php:584
+msgid "Select the main typography options for h3 tag."
+msgstr ""
+
+#: lib/options/style.php:592
+msgid "H4"
+msgstr ""
+
+#: lib/options/style.php:593
+msgid "Select the main typography options for h4 tag."
+msgstr ""
+
+#: lib/options/style.php:601
+msgid "H5"
+msgstr ""
+
+#: lib/options/style.php:602
+msgid "Select the main typography options for h5 tag."
+msgstr ""
+
+#: lib/options/style.php:610
+msgid "H6"
+msgstr ""
+
+#: lib/options/style.php:611
+msgid "Select the main typography options for h6 tag."
+msgstr ""
+
+#: lib/options/style.php:622
+msgid "Navigation Font"
+msgstr ""
+
+#: lib/options/style.php:712
+msgid "Select the main typography options for site navigation "
+msgstr ""
+
+#: lib/options/shop.php:13 inc/theme-functions/theme-functions.php:86
+msgid "WooCommerce"
+msgstr ""
+
+#: lib/options/shop.php:14
+msgid "WooCommerce theme options."
+msgstr ""
+
+#: lib/options/shop.php:22
+msgid "Shop Page"
+msgstr ""
+
+#: lib/options/shop.php:24
+msgid "The settings for archive shop, eg: archive, shop, category..."
+msgstr ""
+
+#: lib/options/shop.php:31
+msgid "Cover shop page"
+msgstr ""
+
+#: lib/options/shop.php:40
+msgid "Choose a source for shop cover on shop page"
+msgstr ""
+
+#: lib/options/shop.php:42
+msgid "Disable"
+msgstr ""
+
+#: lib/options/shop.php:43
+msgid "Category Image"
+msgstr ""
+
+#: lib/options/shop.php:44
+msgid "Custom Image"
+msgstr ""
+
+#: lib/options/shop.php:45
+msgid "Slider shortcode"
+msgstr ""
+
+#: lib/options/shop.php:60
+msgid "Cover Height"
+msgstr ""
+
+#: lib/options/shop.php:63
+msgid "Enter height for cover block on shop page"
+msgstr ""
+
+#: lib/options/shop.php:76
+msgid "Custom image"
+msgstr ""
+
+#: lib/options/shop.php:79
+msgid "Choose a image for shop page"
+msgstr ""
+
+#: lib/options/shop.php:92
+msgid "Slider Shortcode"
+msgstr ""
+
+#: lib/options/shop.php:95
+msgid "Enter shortcode of rev slider for shop page"
+msgstr ""
+
+#: lib/options/shop.php:108
+msgid "Custom Title and Description"
+msgstr ""
+
+#: lib/options/shop.php:128
+msgid "Custom title"
+msgstr ""
+
+#: lib/options/shop.php:131
+msgid "Fill custom title for cover block of shop page"
+msgstr ""
+
+#: lib/options/shop.php:154
+msgid "Custom description"
+msgstr ""
+
+#: lib/options/shop.php:157
+msgid "Fill custom description for cover block of shop page"
+msgstr ""
+
+#: lib/options/shop.php:183
+msgid "Shop page layout"
+msgstr ""
+
+#: lib/options/shop.php:188
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: lib/options/shop.php:191
+msgid ""
+"If check, catalog mode will active, all button cart, icon cart will be hide, "
+msgstr ""
+
+#: lib/options/shop.php:196
+msgid "Shop sidebar option"
+msgstr ""
+
+#: lib/options/shop.php:208 inc/theme-functions/theme-functions.php:358
+msgid "Shop Sidebar"
+msgstr ""
+
+#: lib/options/shop.php:216
+msgid "Products layout"
+msgstr ""
+
+#: lib/options/shop.php:220 lib/options/blog.php:37
+msgid "Grid"
+msgstr ""
+
+#: lib/options/shop.php:221 lib/options/blog.php:38
+msgid "List"
+msgstr ""
+
+#: lib/options/shop.php:228
+msgid "Products per Page"
+msgstr ""
+
+#: lib/options/shop.php:236
+msgid "Item min width (px)"
+msgstr ""
+
+#: lib/options/shop.php:249
+msgid "Shop Pagination type"
+msgstr ""
+
+#: lib/options/shop.php:253 lib/options/blog.php:84
+msgid "Numeric"
+msgstr ""
+
+#: lib/options/shop.php:254 lib/options/blog.php:85
+msgid "Simple"
+msgstr ""
+
+#: lib/options/shop.php:255 lib/options/blog.php:86
+msgid "Ajax load more"
+msgstr ""
+
+#: lib/options/shop.php:256 lib/options/blog.php:87
+msgid "Infinity scroll"
+msgstr ""
+
+#: lib/options/shop.php:266
+msgid "Product Item"
+msgstr ""
+
+#: lib/options/shop.php:271
+msgid "Show cart button"
+msgstr ""
+
+#: lib/options/shop.php:279
+msgid "Show Sale Label"
+msgstr ""
+
+#: lib/options/shop.php:286
+msgid "Sale label type"
+msgstr ""
+
+#: lib/options/shop.php:290
+msgid "Number"
+msgstr ""
+
+#: lib/options/shop.php:291
+msgid "Text"
+msgstr ""
+
+#: lib/options/shop.php:297
+msgid "Hide Rating"
+msgstr ""
+
+#: lib/options/shop.php:298
+msgid "Rating of product will be hide"
+msgstr ""
+
+#: lib/options/shop.php:305
+msgid "Hide Stock Label"
+msgstr ""
+
+#: lib/options/shop.php:306
+msgid "Stock label will be hide"
+msgstr ""
+
+#: lib/options/shop.php:313
+msgid "Disable quick view"
+msgstr ""
+
+#: lib/options/shop.php:314
+msgid "Quick view and all function require will disable"
+msgstr ""
+
+#: lib/options/shop.php:321
+msgid "Disable wishlist button"
+msgstr ""
+
+#: lib/options/shop.php:328
+msgid "Disable compare button"
+msgstr ""
+
+#: lib/options/shop.php:336
+msgid "Single Product Page"
+msgstr ""
+
+#: lib/options/shop.php:338
+msgid "The settings for single product"
+msgstr ""
+
+#: lib/options/shop.php:347
+msgid "Layout"
+msgstr ""
+
+#: lib/options/shop.php:352
+msgid "Shop Gallery Layout"
+msgstr ""
+
+#: lib/options/shop.php:356 inc/metaboxes/meta-boxes.php:623
+msgid "Vertical Gallery"
+msgstr ""
+
+#: lib/options/shop.php:357 inc/metaboxes/meta-boxes.php:622
+msgid "Horizontal Gallery"
+msgstr ""
+
+#: lib/options/shop.php:358 inc/metaboxes/meta-boxes.php:624
+msgid "Carousel"
+msgstr ""
+
+#: lib/options/shop.php:359 inc/metaboxes/meta-boxes.php:625
+msgid "Sticky"
+msgstr ""
+
+#: lib/options/shop.php:365
+msgid "Single product sidebar option"
+msgstr ""
+
+#: lib/options/shop.php:377
+msgid "Single product Sidebar"
+msgstr ""
+
+#: lib/options/shop.php:385
+msgid "Enable Product Zoom"
+msgstr ""
+
+#: lib/options/shop.php:388
+msgid "If check, zoom feature will active"
+msgstr ""
+
+#: lib/options/shop.php:393
+msgid "Show Next and previous Product"
+msgstr ""
+
+#: lib/options/shop.php:401
+msgid "Show Social Share"
+msgstr ""
+
+#: lib/options/shop.php:411
+msgid "Related Product"
+msgstr ""
+
+#: lib/options/shop.php:417
+msgid "Show Related product"
+msgstr ""
+
+#: lib/options/shop.php:425
+msgid "Enable slider for Related products"
+msgstr ""
+
+#: lib/options/shop.php:432 lib/options/blog.php:123
+msgid "Number items"
+msgstr ""
+
+#: lib/options/shop.php:439 lib/options/blog.php:45
+msgid "Columns"
+msgstr ""
+
+#: lib/options/general.php:12 lib/classes/class-zoo-theme-settings-page.php:104
+#: lib/classes/class-zoo-theme-settings-page.php:114
+msgid "General"
+msgstr ""
+
+#: lib/options/general.php:22
+msgid "Site layout"
+msgstr ""
+
+#: lib/options/general.php:28 inc/metaboxes/meta-boxes.php:48
+msgid "Available Layout"
+msgstr ""
+
+#: lib/options/general.php:32 inc/metaboxes/meta-boxes.php:53
+msgid "Full Width"
+msgstr ""
+
+#: lib/options/general.php:33 inc/metaboxes/meta-boxes.php:54
+msgid "Boxed"
+msgstr ""
+
+#: lib/options/general.php:40
+msgid "Enable page loader Font Awesome"
+msgstr ""
+
+#: lib/options/general.php:44
+msgid "On"
+msgstr ""
+
+#: lib/options/general.php:45
+msgid "Off"
+msgstr ""
+
+#: lib/options/general.php:52
+msgid "Add Drop Shadow to Content box"
+msgstr ""
+
+#: lib/options/general.php:60
+msgid "If check, breadcrumbs will hide."
+msgstr ""
+
+#: lib/options/general.php:71
+msgid "Search Box"
+msgstr ""
+
+#: lib/options/general.php:77
+msgid "Choose search box layout"
+msgstr ""
+
+#: lib/options/general.php:81
+msgid "Default"
+msgstr ""
+
+#: lib/options/general.php:82
+msgid "Popup"
+msgstr ""
+
+#: lib/options/general.php:92
+msgid "Site Background"
+msgstr ""
+
+#: lib/options/general.php:98
+msgid "Default Background Color"
+msgstr ""
+
+#: lib/options/general.php:106
+msgid "Default Background Image"
+msgstr ""
+
+#: lib/options/blog.php:11 lib/classes/class-zoo-breadcrumbs.php:103
+msgid "Blog"
+msgstr ""
+
+#: lib/options/blog.php:12
+msgid "Blog theme options."
+msgstr ""
+
+#: lib/options/blog.php:19
+msgid "Blog Archive"
+msgstr ""
+
+#: lib/options/blog.php:21
+msgid "Set a default layout for your archive page."
+msgstr ""
+
+#: lib/options/blog.php:28
+msgid "Blog Layout"
+msgstr ""
+
+#: lib/options/blog.php:33
+msgid "Posts layout"
+msgstr ""
+
+#: lib/options/blog.php:39
+msgid "Minimal"
+msgstr ""
+
+#: lib/options/blog.php:48
+msgid "Columns per row of grid layout."
+msgstr ""
+
+#: lib/options/blog.php:50
+msgid "1"
+msgstr ""
+
+#: lib/options/blog.php:51
+msgid "2"
+msgstr ""
+
+#: lib/options/blog.php:52
+msgid "3"
+msgstr ""
+
+#: lib/options/blog.php:53
+msgid "4"
+msgstr ""
+
+#: lib/options/blog.php:54
+msgid "5"
+msgstr ""
+
+#: lib/options/blog.php:55
+msgid "6"
+msgstr ""
+
+#: lib/options/blog.php:61
+msgid "Show Excerpt"
+msgstr ""
+
+#: lib/options/blog.php:68
+msgid "Number character display the post excerpt."
+msgstr ""
+
+#: lib/options/blog.php:80
+msgid "Posts Pagination type"
+msgstr ""
+
+#: lib/options/blog.php:94
+msgid "Blog Single Post"
+msgstr ""
+
+#: lib/options/blog.php:96
+msgid "Set a default layout for your single post page."
+msgstr ""
+
+#: lib/options/blog.php:101
+msgid "Show Tags"
+msgstr ""
+
+#: lib/options/blog.php:111
+msgid "Blog Related Posts"
+msgstr ""
+
+#: lib/options/blog.php:116
+msgid "Show Related posts"
+msgstr ""
+
+#: lib/options/blog.php:136
+msgid "Blog sidebar"
+msgstr ""
+
+#: lib/options/blog.php:138
+msgid "Set a default sidebar for your archive page."
+msgstr ""
+
+#: lib/options/blog.php:143
+msgid "Blog Sidebar Left"
+msgstr ""
+
+#: lib/options/blog.php:145
+msgid "If select none, left sidebar will hide."
+msgstr ""
+
+#: lib/options/blog.php:152
+msgid "Blog Sidebar Right"
+msgstr ""
+
+#: lib/options/blog.php:153
+msgid "If select none, right sidebar will hide."
+msgstr ""
+
+#: lib/options/import-export.php:19
+#: lib/classes/class-zoo-theme-settings-page.php:107
+#: lib/classes/class-zoo-theme-settings-page.php:149
+msgid "Import/Export"
+msgstr ""
+
+#: lib/options/header.php:18
+msgid "Logo Height"
+msgstr ""
+
+#: lib/options/header.php:19
+msgid ""
+"Height of logo. If it blank, logo will use keep original size of logo image"
+msgstr ""
+
+#: lib/options/header.php:27
+msgid "Logo Padding Top"
+msgstr ""
+
+#: lib/options/header.php:40
+msgid "Logo Padding Bottom"
+msgstr ""
+
+#: lib/options/header.php:53
+msgid "Site Logo - Sticky"
+msgstr ""
+
+#: lib/options/header.php:54
+msgid "An alternative logo image used on headers sticky."
+msgstr ""
+
+#: lib/options/header.php:62
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: lib/options/header.php:63
+msgid ""
+"Height of sticky logo. If it blank, logo will use keep original size of "
+"sticky logo image"
+msgstr ""
+
+#: lib/options/header.php:69
+msgid "Header"
+msgstr ""
+
+#: lib/options/header.php:76 lib/options/header.php:90
+#: inc/metaboxes/meta-boxes.php:286
+msgid "Header Layout"
+msgstr ""
+
+#: lib/options/header.php:80
+msgid "Header Presets"
+msgstr ""
+
+#: lib/options/header.php:95
+msgid "Header layout"
+msgstr ""
+
+#: lib/options/header.php:113
+msgid "Use header transparent"
+msgstr ""
+
+#: lib/options/header.php:121
+msgid "Use sticky header"
+msgstr ""
+
+#: lib/options/header.php:129 inc/metaboxes/meta-boxes.php:316
+msgid "100% Header Width"
+msgstr ""
+
+#: lib/options/header.php:140 lib/options/header.php:155
+msgid "Top Bar"
+msgstr ""
+
+#: lib/options/header.php:146
+msgid "Enable top bar header"
+msgstr ""
+
+#: lib/options/header.php:176 lib/options/header.php:225
+#: lib/options/header.php:266
+msgid "Link color hover"
+msgstr ""
+
+#: lib/options/header.php:184
+msgid "Border color"
+msgstr ""
+
+#: lib/options/header.php:192 lib/options/header.php:233
+#: lib/options/header.php:274
+msgid "Background"
+msgstr ""
+
+#: lib/options/header.php:203
+msgid "Header Main"
+msgstr ""
+
+#: lib/options/header.php:244
+msgid "Header Sticky"
+msgstr ""
+
+#: lib/functions/pagination.php:28
+msgid "Prev Posts"
+msgstr ""
+
+#: lib/functions/pagination.php:29
+msgid "Next Posts"
+msgstr ""
+
+#: lib/functions/pagination.php:33 inc/templates/posts/post-pagination.php:21
+msgid "Load More"
+msgstr ""
+
+#: lib/functions/pagination.php:34 inc/templates/posts/post-pagination.php:22
+msgid "No More Posts"
+msgstr ""
+
+#: lib/functions/assets.php:46 inc/theme-functions/theme-functions.php:516
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: lib/helpers/general.php:17 inc/metaboxes/field/sidebars.php:40
+#: inc/metaboxes/field/navs.php:24
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-welcome-page.php:64
+msgid "Welcome"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-welcome-page.php:108
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-welcome-page.php:109
+#, php-format
+msgid "Thank you for choosing %s."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-welcome-page.php:122
+msgid "System Status"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:72
+#: lib/classes/class-zoo-theme-settings-page.php:73
+msgid "Theme Settings"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:105
+#: lib/classes/class-zoo-theme-settings-page.php:126
+msgid "Media"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:106
+msgid "3rd APIs"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:116
+msgid "Header scripts"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:117
+msgid ""
+"Add custom scripts inside HEAD tag. You need to have SCRIPT tag around the "
+"scripts."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:120
+msgid "Footer scripts"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:121
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:128
+msgid "Enable adaptive images"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:129
+msgid "Whether to enable adaptive images or not."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:132
+msgid "Adaptive image sizes"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:133
+msgid ""
+"Comma-separated sizes which make images look good on modern devices&#8217; "
+"screen."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:138
+msgid "Third-Party APIs"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:140
+msgid "Google map API key"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:143
+#, php-format
+msgid ""
+"Enter your Google Map API key to enable maps. You can generate one at: "
+"%sGoogle Map API%s."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:151
+msgid "Import"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:153
+msgid ""
+"Paste encoded settings saved from the \"Export\" box and click on the \"Save "
+"Changes\" to import."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:158
+msgid "Export"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:160
+msgid ""
+"Copy the below JSON encoded settings and save it somewhere to import later."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:203
+msgid "Settings have been saved successfully!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:203
+#: lib/classes/class-zoo-theme-settings-page.php:207
+msgid "Dismiss this notice."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-settings-page.php:207
+msgid "Failed to save settings. Please try again!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:143
+#: lib/classes/class-zoo-theme-setup-wizard.php:144
+msgid "Theme Options"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:151
+#: lib/classes/class-zoo-theme-setup-wizard.php:152
+msgid "Theme Setup"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:171
+msgid "Introduction"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:176
+msgid "System"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:181
+msgid "Child"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:186
+msgid "Plugins"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:191
+msgid "Content"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:196
+msgid "Demo"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:201
+msgid "Ready!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:235
+msgid " Verifying"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:277
+msgid "Invalid child theme data. Please try again!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:315
+#, php-format
+msgid "%s has already been created. Child theme files are stored in %s."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:323
+#, php-format
+msgid ""
+"%s has been created and activated successfully! Child theme files are stored "
+"in %s."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:351
+msgid "Activating"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:367
+msgid "Updating"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:383
+#: lib/classes/class-zoo-theme-setup-wizard.php:1177
+#: lib/classes/class-zoo-theme-setup-wizard.php:1190
+#: lib/classes/class-zoo-theme-setup-wizard.php:1203
+#: lib/classes/class-zoo-theme-setup-wizard.php:1216
+#: lib/classes/class-zoo-theme-setup-wizard.php:1229
+msgid "Installing"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:393
+#: lib/classes/class-zoo-theme-setup-wizard.php:1178
+#: lib/classes/class-zoo-theme-setup-wizard.php:1191
+#: lib/classes/class-zoo-theme-setup-wizard.php:1204
+#: lib/classes/class-zoo-theme-setup-wizard.php:1217
+#: lib/classes/class-zoo-theme-setup-wizard.php:1230
+msgid "Success"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:413
+msgid "Invalid content!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:451
+msgid "Error"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:547
+#, php-format
+msgid "%s%sTheme &rsaquo; Setup Wizard%s"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:565
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:618
+#: lib/classes/class-zoo-theme-setup-wizard.php:629
+#: lib/classes/class-zoo-theme-setup-wizard.php:639
+msgid "Welcome to theme setup wizard!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:619
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:622
+#: lib/classes/class-zoo-theme-setup-wizard.php:643
+msgid "Let&#8217;s go!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:624
+#: lib/classes/class-zoo-theme-setup-wizard.php:644
+msgid "Not right now"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:630
+msgid ""
+"It looks like you have already run the setup wizard. If you want to run the "
+"wizard again, click on \"Run setup wizard again\"."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:632
+msgid "Run setup wizard again"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:633
+#: lib/classes/class-zoo-theme-setup-wizard.php:829
+#: lib/classes/class-zoo-theme-setup-wizard.php:864
+#: lib/classes/class-zoo-theme-setup-wizard.php:867
+#: lib/classes/class-zoo-theme-setup-wizard.php:1021
+#: lib/classes/class-zoo-theme-setup-wizard.php:1057
+msgid "Skip this step"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:640
+#, php-format
+msgid ""
+"Thank you for choosing %s theme! This setup wizard is to help you setup your "
+"new website quickly. Step by step, you will install necessary plugins, "
+"import demo content, customize site appearance..."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:641
+msgid ""
+"If you don&#8217;t want to go through the wizard, you can skip any step or "
+"return to the WordPress admin dashboard. Come back anytime if you change "
+"your mind!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:669
+msgid ""
+"Before installing the theme, we need to check if your system environment. "
+"The theme will not work properly if your system doen not meet minimal "
+"requirements. Please check it carefully!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:672
+msgid "Environment"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:673
+msgid "Info"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:674
+msgid "Value"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:675
+msgid "Status"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:689
+msgid "XML Parser"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:694
+#, php-format
+msgid ""
+"%s requires SimpleXML or XMLReader extension of PHP to parse WXR file. Make "
+"sure to install one of them before importing sample data!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:701
+msgid "Null"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:712
+msgid "PHP Version"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:717
+#, php-format
+msgid "%s requires PHP version 5.4 at least."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:718
+#: lib/classes/class-zoo-theme-setup-wizard.php:750
+msgid "You should use latest version for better perfomance and security."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:728
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:733
+msgid "Importing demo data could use large amount of memory."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:734
+#, php-format
+msgid "At peak, %s may require at least 256M of memory."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:744
+msgid "WordPress Version"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:749
+#, php-format
+msgid "%s requires WordPress version 4.4 at least."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:764
+msgid "Max Execution Time"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:770
+#, php-format
+msgid "%s requires at least 30s of PHP execution time."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:785
+msgid "Max Upload File Size"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:791
+#, php-format
+msgid "%s requires at least 2M of total upload file size."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:806
+msgid "Server Max Post Size"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:812
+#, php-format
+msgid "%s requires at least 8M of total file size."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:824
+msgid ""
+"Whoops, your system does not meet the requirements. You should contact your "
+"hosting or VPS provider to fix it before installing this theme."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:829
+#: lib/classes/class-zoo-theme-setup-wizard.php:867
+#: lib/classes/class-zoo-theme-setup-wizard.php:965
+#: lib/classes/class-zoo-theme-setup-wizard.php:1020
+#: lib/classes/class-zoo-theme-setup-wizard.php:1056
+msgid "Continue"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:831
+msgid "Abort"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:831
+msgid "Proceed anyway"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:848
+msgid "Setup a Child Theme"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:851
+#, php-format
+msgid ""
+"%sGreat! A child theme named as %s has already been created and activated "
+"successfully%s."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:853
+#, php-format
+msgid ""
+"If you are going to make changes to theme source code, it&#8217;s better to "
+"use a %schild theme%s rather than modifying parent theme. This allows parent "
+"theme to receive updates without overwriting your modifications. To generate "
+"a child theme, please enter child theme name then click on the \"Create "
+"child theme\" button."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:858
+msgid "Child Theme Name"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:863
+msgid "Create child theme"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:930
+msgid "Setup Plugins"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:935
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:957
+msgid "Great! All plugins has already been installed and up to date."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:959
+#, php-format
+msgid ""
+"Note that you can add and remove plugins from within %sWordPress admin "
+"dashboard%s whenever you want."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:963
+msgid "Install plugins"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:987
+msgid "Import Sample Content"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:990
+msgid ""
+"It looks like you already have content imported. If you would like to "
+"install the default demo content as well you can select it below. Otherwise "
+"just choose the upgrade option to ensure everything is up to date."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:992
+msgid ""
+"It&#8217;s time to import some sample content for your new website. Tick the "
+"checkboxes of the contents you would like to import. Once imported, the "
+"content can be managed within the WordPress admin dashboard."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1018
+msgid ""
+"If you don&#8217;t know what content you should tick, it&#8217;s good idea "
+"to leave everything as default."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1036
+msgid "Select site demo"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1054
+msgid ""
+"If you are unsure to choose which style, just leave to it default. This "
+"works best on fresh new sites."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1119
+msgid "Congratulations! Your website is ready!"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1120
+msgid ""
+"Theme has been installed successfully. Go back to your WordPress dashboard "
+"to customize the default content and appearance to suit your needs."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1123
+msgid "Next Steps"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1126
+msgid "Rate this theme"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1128
+msgid "View your website"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1129
+msgid "Customize your website"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1133
+msgid "More Steps"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1136
+msgid "Learn WordPress"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1139
+msgid "Read Documentation"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1142
+msgid "Item Support Policy"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1145
+msgid "Get Help and Support"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1175
+msgid "Sample"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1175
+msgid "data."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1176
+#: lib/classes/class-zoo-theme-setup-wizard.php:1189
+#: lib/classes/class-zoo-theme-setup-wizard.php:1202
+#: lib/classes/class-zoo-theme-setup-wizard.php:1215
+#: lib/classes/class-zoo-theme-setup-wizard.php:1228
+msgid "Pending"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1187
+msgid "Widgets"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1188
+msgid "Sample widgets data."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1200
+msgid "Sliders"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1201
+msgid "Sample sliders data."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1213
+msgid "Options"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1214
+msgid "Sample theme options data."
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1226
+msgid "Settings"
+msgstr ""
+
+#: lib/classes/class-zoo-theme-setup-wizard.php:1227
+msgid "Sample theme and plugins&#8217; settings data."
+msgstr ""
+
+#: lib/classes/class-zoo-customize-manager.php:216
+msgid "Not previewing"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-manager.php:221
+msgid "Cheating?"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-manager.php:232
+msgid "Customize data reset successfully!"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-manager.php:262
+msgid "Invalid attachment!"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:113
+msgid "Categorized as"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:120
+msgid "Tagged with"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:127
+msgid "Classified as"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:134
+msgid "Posted in"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:143
+msgid "Posted on"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:169
+msgid "Posted by"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:190
+msgid "Search results for"
+msgstr ""
+
+#: lib/classes/class-zoo-breadcrumbs.php:197
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/classes/class-zoo-wxr-parser.php:32
+#: lib/classes/class-zoo-wxr-parser.php:56
+#: lib/classes/class-zoo-wxr-parser.php:64
+#: lib/classes/class-zoo-wxr-parser.php:68
+#: lib/classes/class-zoo-wxr-parser.php:263
+msgid "Invalid WXR file."
+msgstr ""
+
+#: lib/classes/class-zoo-wxr-parser.php:40
+msgid "No XML parser found."
+msgstr ""
+
+#: lib/classes/class-zoo-wxr-parser.php:252
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:17
+msgid "Export customize options"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:20
+msgid "Click the button below to export the customization data for this theme."
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:22
+msgid "Download export file"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:24
+msgid "Import customize options"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:27
+msgid "Upload a file to import customization data for this theme."
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:33
+msgid "Import attachments"
+msgstr ""
+
+#: lib/classes/class-zoo-customize-import-export-control.php:37
+msgid "Upload &amp; import"
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:80
+msgid ""
+"This user is created while installing demo content. You should delete or "
+"modify this user&#8217;s information now."
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:648
+msgid "Invalid attachment file type!"
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:824
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:832
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:837
+msgid "Zero size file downloaded."
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:844
+#, php-format
+msgid "Remote file is too large, limit is %s."
+msgstr ""
+
+#: lib/classes/class-zoo-demo-importer.php:1127
+#: lib/classes/class-zoo-demo-importer.php:1128
+msgid "Taxonomy names must be between 1 and 32 characters in length."
+msgstr ""
+
+#: inc/templates/top-menu.php:3
+msgid "Become An Instructor"
+msgstr ""
+
+#: inc/templates/top-menu.php:10
+msgid "Sign Up"
+msgstr ""
+
+#: inc/templates/top-menu.php:20
+msgid "Login"
+msgstr ""
+
+#: inc/templates/top-menu.php:27
+msgid "Logout"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:23
+msgid "Layout Options"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:28
+msgid "Page TOC."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:34
+msgid "Page padding top."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:38
+msgid "Padding top of this page (px). Default: inherit. Ex: 50px"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:41
+msgid "Page padding bottom."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:45
+msgid "Padding bottom of this page (px). Default: inherit. Ex: 50px"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:59
+msgid "Add Drop Shadow to Content box."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:65
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:71
+msgid "Site Background Image"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:129
+msgid "Use Custom Menu"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:136
+msgid "Logo page"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:142
+msgid "Logo for page"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:149
+msgid "Sticky Logo for page"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:156
+msgid "Hide site Tag line."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:174
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:181
+msgid "Button Primary Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:187
+msgid "Button Primary Border Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:193
+msgid "Button Primary Background Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:199
+msgid "Button Primary Color: Hover"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:205
+msgid "Button Primary Border Color: Hover"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:211
+msgid "Button Primary Background Color: Hover"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:217
+msgid "Button Secondary Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:223
+msgid "Button Secondary Border Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:229
+msgid "Button Secondary Background Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:235
+msgid "Button Secondary Color: Hover"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:241
+msgid "Button Secondary Border Color: Hover"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:247
+msgid "Button Secondary Background Color: Hover"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:254
+msgid "Title & Breadcrumbs Options"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:260
+msgid "Disable Title"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:267
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:274
+msgid "Header Options"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:280
+msgid "Disable topbar."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:301
+msgid ""
+"Choose Options Header Layout. If set Inherit, it follow option of customize"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:304
+msgid "Hide border bottom."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:309
+msgid "Enable Header Transparency"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:313
+msgid "If check, header will be use transparent style."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:320
+#, php-format
+msgid ""
+"Check this box to set the header to 100% of the browser width. Uncheck to "
+"follow the site width."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:323
+msgid "Footer Options"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:337
+msgid "Disable Top Footer"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:344
+msgid "Disable Main Footer"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:448
+msgid "Choose Footer Layout."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:451
+msgid "Footer Top Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:457
+msgid "Footer Top Link Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:463
+msgid "Footer Top Link Hover Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:469
+msgid "Footer Top Block Title Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:475
+msgid "Background Color of Input Field in Footer Top"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:481
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:488
+msgid "Footer Main Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:494
+msgid "Footer Main Link Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:500
+msgid "Footer Main Link Hover Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:506
+msgid "Footer Main Block Title Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:512
+msgid "Background Color of Input Field in Footer Main"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:518
+msgid "Footer Main Background Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:525
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:531
+msgid "Footer Copyright Link Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:537
+msgid "Footer Copyright Link Hover Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:543
+msgid "Footer Copyright Border Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:549
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:559 inc/metaboxes/meta-boxes.php:617
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:564
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:569
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:581
+msgid "Post Meta"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:586
+msgid "Author avatar"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:587
+msgid "Author avatar display in frontend"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:593
+msgid "Author name"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:594
+msgid "Author name display in frontend"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:599
+msgid "Author description"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:600
+msgid "Author description display in frontend"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:612
+msgid "Layout Single Product"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:628
+msgid "Choose Options Sidebar."
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:635
+msgid "Video Gallery"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:640
+msgid "Video Link"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:642
+msgid "Type a video link on youtube or vimeo"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:648
+msgid "Video Width"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:654
+msgid "Video Height"
+msgstr ""
+
+#: inc/metaboxes/meta-boxes.php:661
+msgid "Video Thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:89
+msgid "Displays your social profile."
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:94
+msgid "Zoo - Social profile"
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:142
+#: inc/widgets/widget-zoo-recent-post.php:141
+#: inc/widgets/widget-zoo-language-switcher.php:62
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:149
+msgid "Display"
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:153
+msgid "Only Text"
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:155
+msgid "Only Icon"
+msgstr ""
+
+#: inc/widgets/widget-zoo-social.php:157
+msgid "Both Text and Icon"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:26
+msgid "A widget that displays posts"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:32
+msgid "Zoo - Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:111
+msgid "Posts Widget"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:116
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:122
+msgid "Filter by Category:"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:125
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:137
+msgid "Order by:"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:139
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:140
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:142
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:143
+msgid "Comment Count"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:144
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:147
+msgid "Order:"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:149
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:150
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/widget-zoo-recent-post.php:155
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/widget-zoo-language-switcher.php:21
+msgid "Displays your language switcher."
+msgstr ""
+
+#: inc/widgets/widget-zoo-language-switcher.php:26
+msgid "Zoo - Language switcher"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:18
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:26
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:34
+msgid "Clever Visual Composer Addon"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:42
+msgid "Clever Mega Menu"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:50
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:56
+msgid "Meta Box"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:62
+msgid "Newsletter"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:68
+msgid "Ajax Search Lite"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:74
+msgid "Super Socializer"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:80
+msgid "Instagram Shop by Snapppt"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:92
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:98
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:104
+msgid "Currency Switcher for WooCommerce"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:110
+msgid "WooCommerce Product Filter"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:156
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:157
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:173
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:175
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:184
+msgid "Topbar left"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:186
+msgid "Add widgets here to appear in your top header left."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:194
+msgid "Topbar right"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:196
+msgid "Add widgets here to appear in your top header right."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:205
+msgid "Menu Action"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:207
+msgid "Add widgets here to appear in your menu action."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:215
+msgid "Landing Header"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:217
+msgid "Add widgets here to appear in your langding page (disable icon header)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:227
+msgid "Add widgets here to appear in your top footer."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:235
+msgid "Main Footer #1"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:237
+msgid "Add widgets here to appear in your main footer 1."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:245
+msgid "Main Footer #2"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:247
+msgid "Add widgets here to appear in your Main footer 2."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:255
+msgid "Main Footer #3"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:257
+msgid "Add widgets here to appear in your Main footer 3."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:265
+msgid "Main Footer #4"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:267
+msgid "Add widgets here to appear in your Main footer 4."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:275
+msgid "Main Footer Layout 2"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:277
+msgid ""
+"Add widgets here to appear in your main footer( only for footer layout 2)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:285
+msgid "Main Footer Layout 3 #1"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:287
+msgid ""
+"Add widgets here to appear in your main footer 1( only for footer layout 3)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:295
+msgid "Main Footer Layout 3 #2"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:297
+msgid ""
+"Add widgets here to appear in your Main footer 2( only for footer layout 3)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:305
+msgid "Main Footer Layout 3 #3"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:307
+msgid ""
+"Add widgets here to appear in your Main footer 3( only for footer layout 3)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:315
+msgid "Main Footer Layout 3 #4"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:317
+#: inc/theme-functions/theme-functions.php:327
+msgid ""
+"Add widgets here to appear in your Main footer 4( only for footer layout 3)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:325
+msgid "Main Footer Layout 3 #5"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:335
+msgid "Main Footer Layout 4"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:337
+msgid ""
+"Add widgets here to appear in your main footer( only for footer layout 4)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:345
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:347
+msgid ""
+"Add widgets here to appear in your bottom footer( only for footer layout 3)."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:360
+msgid "Add widgets here to appear in your sidebar of shop page."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:627
+#: inc/theme-functions/theme-functions.php:645
+msgid "Reply"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:628
+#: inc/theme-functions/theme-functions.php:646
+msgid "Log in to reply."
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:711
+msgid "Featured"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:717
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:738
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:747
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:753
+#: inc/theme-functions/theme-functions.php:761
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:756
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:764
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/theme-functions/theme-functions.php:775
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. %s: post title
+#: inc/theme-functions/theme-functions.php:785
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/theme-functions/helper.php:254
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: inc/theme-functions/helper.php:255
+msgid "Enter Password"
+msgstr ""
+
+#: inc/theme-functions/helper.php:257
+msgid "Submit"
+msgstr ""
+
+#: inc/theme-functions/helper.php:297
+msgid "English"
+msgstr ""
+
+#: inc/theme-functions/helper.php:303
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr ""
+
+#: inc/theme-functions/helper.php:338
+msgid "Embed HTML not available."
+msgstr ""
+
+#: clever-vc-addon/shortcodes/product.php:64
+msgid "No product found"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/product.php:126
+#: clever-vc-addon/shortcodes/product.php:129
+msgid "Load more"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/product.php:128
+msgid "No more Load"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/blog.php:69
+msgid "Previous"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/blog.php:69
+msgid "Next"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/demo-box.php:75
+msgid "Coming soon"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/demo-box.php:79
+msgid "Hot"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/demo-box.php:82
+msgid "New"
+msgstr ""
+
+#: inc/templates/header/vertical-layout.php:23
+#: inc/templates/header/stack-center-3-layout.php:23
+#: inc/templates/header/two-lines-1-layout.php:24
+#: inc/templates/header/menu-right-layout.php:23
+#: inc/templates/header/menu-center-layout.php:23
+#: inc/templates/header/two-lines-2-layout.php:24
+#: inc/templates/header/menu-left-layout.php:23
+#: inc/templates/header/stack-center-2-layout.php:23
+#: inc/templates/header/icon-header.php:23
+#: inc/templates/header/landing-header-layout.php:23
+#: inc/templates/header/menu-category-layout.php:23
+#: inc/templates/header/logo-center-layout.php:23
+#: inc/templates/header/stack-center-layout.php:21
+msgid "Toogle Search block"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:48
+msgid "Color Picker"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:49
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:15
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:13
+msgid "Image"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:50
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-label.php:13
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-label.php:11
+msgid "Label"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:207
+msgid "Select terms"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:220
+msgid "Select all"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:221
+msgid "Select none"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/zoo-attribute.php:222
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr ""
+
+#: inc/metaboxes/field/sidebars.php:34
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:44
+msgid "Search for:"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:46
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:48
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:49
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:57
+msgid "Categories"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:83
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:123
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:84
+msgid "Featured product"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:85
+msgid "Onsale product"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:86
+msgid "Best Selling"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:87
+msgid "Latest product"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:88
+msgid "Top rate product"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:89
+msgid "Price: Low to High"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:90
+msgid "Price: High to Low"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:94
+msgid "Sort By"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:120
+msgid "Price"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:226
+msgid "Tags"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/woocommerce/product-filter.php:253
+msgid "Clear All Filter"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/post-layout/list-layout.php:21
+#: clever-vc-addon/shortcodes/post-layout/grid-layout.php:40
+#: inc/templates/posts/archive/list-layout.php:23
+#: inc/templates/posts/archive/minimal-layout.php:20
+#: inc/templates/posts/archive/grid-layout.php:39
+msgid "bookmark"
+msgstr ""
+
+#: clever-vc-addon/shortcodes/post-layout/list-layout.php:36
+#: clever-vc-addon/shortcodes/post-layout/grid-layout.php:57
+msgid "Read more"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:170
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:24
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:19
+msgid "Remove"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:198
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:199
+#: lib/vendor/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:200
+#: lib/vendor/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:201
+#, php-format
+msgid "%s Reset"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr ""
+
+#: lib/vendor/kirki/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr ""
+
+#: inc/templates/posts/archive/list-layout.php:30
+#: inc/templates/posts/archive/grid-layout.php:48
+msgid "Continue reading"
+msgstr ""
+
+#: inc/templates/posts/single/related-posts.php:51
+msgid "You may be also like"
+msgstr ""
+
+#: inc/templates/posts/single/post-pagination.php:3
+msgid "Next article"
+msgstr ""
+
+#: inc/templates/posts/single/post-pagination.php:4
+msgid "Previous article"
+msgstr ""
+
+#: inc/templates/posts/single/tag.php:16
+msgid "Tags:"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:20
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:15
+msgid "Image type"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:23
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:18
+msgid "Click to select an existing image or upload a new images"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:23
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:18
+msgid "Upload/Add Image"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:24
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:19
+msgid "Remove image selected"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:50
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:43
+msgid "Select or upload image"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-image.php:55
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:48
+msgid "Select"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/edit/zoo-colorpicker.php:20
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-colorpicker.php:17
+msgid "Please pick a color"
+msgstr ""
+
+#: inc/woocommerce/zoo-attribute/templates/admin/add/zoo-image.php:22
+msgid "Select your image"
+msgstr ""
+
+#. Name of the theme
+msgid "Zoo Kodo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Zoo Kodo is minimal, faster and lighter WooCommerce theme which packed with "
+"features to make sure you never run out of ways to customize your new "
+"minimal style store to your needs."
+msgstr ""
+
+#. URI of the theme
+msgid "http://wp.rivertheme.com/zoo-kodo"
+msgstr ""
+
+#. Author of the theme
+msgid "Zootemplate"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://zootemplate.com/"
+msgstr ""

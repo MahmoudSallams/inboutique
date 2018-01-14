@@ -1,0 +1,96 @@
+/**
+ * Theme Name:  Zoo Kodo
+ * Theme URI:   http://wp.rivertheme.com/zoo-kodo
+ * Author:      Zootemplate
+ * Author URI:  http://zootemplate.com/
+ * Description: Zoo Kodo is minimal, faster and lighter WooCommerce theme which packed with features to make sure you never run out of ways to customize your new minimal style store to your needs.
+ * Version:     1.0.0
+ * License:     GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:        two-columns, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+ * Text Domain: zoo-kodo
+ *
+ * This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you've learned with others.
+ */
+
+@import "base/mixins";
+
+/* Base style: Reset + Accessibility + Alignments + Custom Css */
+@import "base/base";
+
+/**
+ * Keyframes define
+ */
+@import "base/keyframes";
+
+/* Typography */
+@import "partials/typography";
+
+/* Button */
+@import "partials/button";
+
+/* Field */
+@import "partials/field";
+
+/* Table */
+@import "partials/table";
+
+/* Quote */
+@import "partials/quote";
+
+/* Breadcrumb */
+@import "partials/breadcrumb";
+
+/* Pagination */
+@import "partials/pagination";
+
+/* Comment */
+@import "partials/comment";
+
+/* Social */
+@import "partials/social";
+
+/* Heading */
+@import "partials/heading";
+
+/* Blog */
+@import "partials/blog";
+
+/* WooCommerce */
+@import "partials/woocommerce";
+
+/* Widgets */
+@import "partials/widgets";
+
+/* Sidebar */
+@import "partials/sidebar";
+
+/* Shortcode */
+@import "partials/shortcode";
+
+/* Header: index */
+@import "header/index";
+
+/* Header: topbar */
+@import "header/topbar";
+
+/* Header: navigation */
+@import "header/navigation";
+
+/* Header: sticky */
+@import "header/sticky";
+
+/* Header: mobile */
+@import "header/mobile";
+
+/* Footer: index */
+@import "footer/index";
+
+/* Theme */
+@import "theme/theme";
+
+/* Presets */
+@import "theme/theme-presets";
+
+/* Responsive */
+@import "theme/theme-responsive";
